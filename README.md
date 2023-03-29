@@ -4,14 +4,16 @@ Developed with Unreal Engine 4
 
 ## Basic Game Premise
 
-You play as a secret agent tasked with finding and stealing an important package from a heavily guarded warehouse. The guards patrol the warehouse in search of intruders, and you are armed with only your wits, so use whatever objects you find against them. You must use your environment to your advantage, using whatever means necessary to stay undetected as you complete your mission.
+You play as an agent tasked with stealing a top secret package from a heavily guarded warehouse. Armed with only your wits, you must sneak into the warehouse and steal the package without being detected by the guards. Since you're going in unarmed, you will have to use your environment to your advantage, using whatever objects you find to aid you on your mission.
 
-## Controls & System Information
+## System & Controls
 
-Designed for use with the HTC Vive HMD and Vive controllers. Use the left trackpad to move around, pointing the left controller in the direction you want to go. Use the left and right edges of the right trackpad to instantly turn 45° in the selected direction. Use the triggers to grab and pick up objects.
+This game was designed for use with the HTC Vive HMD and controllers. Use the left trackpad to move your character around, pointing the controller in the forwards direction. Use the edges of the right trackpad to instantly turn 45°. Use the triggers to pick up and grab objects. 
 
-## Gameplay
+## Gameplay & Planned Features
 
-The player starts at a randomly selected entrance to the warehouse and must find the package, which has also been placed randomly around the warehouse. The guards patrol the warehouse on preset paths, moving in a predictable manner. The player will have a device on their wrist that shows a zoomed-in view of the surrounding walls and obects, the location of the guards and their field of vision, any security cameras and their field of vision, and any important objects such as the target object to steal and the entrance/exit to the warehouse. There will be a variety of hiding places and interactive objects around the warehouse, as well as many smaller objects that can be thrown at guards to temporarily stun them or knock them out. If a guard sees you, they will alert other guards nearby chase after you. While you are being chased, you will lose access to your wrist map and have to either quickly hide or take the guard down. If you are able to successfully evade or take out the guards chasing you, the remaining guards will return to their patrol paths, and you will regain access to your wrist map.
+The player starts in a random location at the edge of the warehouse and must make their way towards a target object (the package), which has also been randomly placed around the warehouse. Upon retrieval of the package, the player must then make their way back to the entrance they spawned at, all while avoiding the guards. The player has access to a minimap which shows their location, any guards and security cameras nearby, the vision cones of the previously mentioned guards and cameras, and any notable objects (entrances/exits, the package, etc). Should a player encounter a guard, the guard will drop what they're doing, chasing after the player. While being chased, the player will lose access to their minimap. If the player is able to break line of sight with the guards for long enough, the guards will return to what they were previously doing. If the player throws an object at one of the guards, they will be knocked out and can no longer chase the player.
 
-This game takes heavy inspiration from other media and video games, specifically "Metal Gear Solid" and "Budget Cuts." The gameplay combines elements of both: the dimly lit industrial facilities and guards with vision cones visible to the player from Metal Gear Solid, and the room-scale VR interactions and weapon-throwing from Budget Cuts.
+## Inspiration
+
+This game draws heavy inspiration from other media and video games, most notably "Metal Gear Solid" and "Budget Cuts." It incorporates the large, dim environments and minimap system from Metal Gear Solid, and the VR interactivity and throwable objects from Budget Cuts.
