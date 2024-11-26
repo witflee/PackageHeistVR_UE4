@@ -1,6 +1,6 @@
-# VR_Stealth_UE4
+# PackageHeistVR_UE4
 
-Developed with Unreal Engine 4
+Developed with Unreal Engine 4.26
 
 ## Basic Game Premise
 
